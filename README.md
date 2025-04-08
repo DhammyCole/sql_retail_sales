@@ -205,3 +205,6 @@ GROUP BY shift
 This project serves as a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project would help drive business decisions by understanding sales patterns, customer behavior, and product performance.
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/dhammycole/)
+- **Twitter**: [Join our community to learn and grow together](https://x.com/Dhammy_Cole)
+- **Gmail**: johndammy2022@gmail.com
