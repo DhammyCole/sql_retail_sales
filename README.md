@@ -208,3 +208,5 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/dhammycole/)
 - **Twitter**: [Join our community to learn and grow together](https://x.com/Dhammy_Cole)
 - **Gmail**: johndammy2022@gmail.com
+
+  Thank you for your interest in this project!
